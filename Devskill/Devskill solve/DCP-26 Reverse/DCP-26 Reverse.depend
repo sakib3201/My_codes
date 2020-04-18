@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561358016 source:e:\my codes\dcp-26 reverse\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

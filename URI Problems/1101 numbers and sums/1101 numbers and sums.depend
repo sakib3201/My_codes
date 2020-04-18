@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552965002 source:e:\my codes\1101 numbers and sums\main.c
+	<stdio.h>
+	<stdlib.h>
+

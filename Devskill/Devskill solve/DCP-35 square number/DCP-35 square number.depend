@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561355638 source:e:\my codes\dcp-35 square number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

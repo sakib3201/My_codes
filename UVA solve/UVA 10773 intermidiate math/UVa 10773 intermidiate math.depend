@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556418236 source:e:\my codes\uva 10773 intermidiate math\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

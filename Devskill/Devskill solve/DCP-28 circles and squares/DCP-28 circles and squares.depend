@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561353735 source:e:\my codes\dcp-28 circles and squares\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

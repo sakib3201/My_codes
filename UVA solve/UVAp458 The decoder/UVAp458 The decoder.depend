@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556271110 source:e:\my codes\uvap458 the decoder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

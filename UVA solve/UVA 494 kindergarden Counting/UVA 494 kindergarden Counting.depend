@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567145215 source:e:\my codes\uva 494 kindergarden counting\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

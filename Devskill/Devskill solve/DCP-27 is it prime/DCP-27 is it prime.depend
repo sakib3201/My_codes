@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561303284 source:e:\my codes\dcp-27 is it prime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

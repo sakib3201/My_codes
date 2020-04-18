@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555066865 source:e:\my codes\1153 simple factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

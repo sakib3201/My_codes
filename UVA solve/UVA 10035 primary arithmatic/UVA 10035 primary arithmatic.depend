@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567123559 source:e:\my codes\uva 10035 primary arithmatic\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
